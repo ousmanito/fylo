@@ -1,5 +1,8 @@
 # Fylo Landing Page - CSS Warmup
 
+### Links
+
+- Solution URL: https://fylo-landing-page-spa.netlify.app/
 
 
 ## Screenshot of the Home page
@@ -24,9 +27,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 
-### Links
-
-- Solution URL: https://fylo-landing-page-spa.netlify.app/
 
 ## My process
 
