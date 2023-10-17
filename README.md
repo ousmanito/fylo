@@ -1,8 +1,8 @@
-# Fylo Storage Landing Page
+# Fylo Storage
 
 ### Links
 
-- Solution URL: https://fylo-storage.com
+- URL: https://fylo-storage.com
 
 
 ## Screenshot of the Home page
