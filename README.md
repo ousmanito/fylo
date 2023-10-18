@@ -1,8 +1,8 @@
-# Fylo Landing Page - CSS Warmup
+# Fylo Storage
 
 ### Links
 
-- Solution URL: https://fylo-landing-page-spa.netlify.app/
+- URL: https://fylo-storage.com
 
 
 ## Screenshot of the Home page
@@ -33,5 +33,5 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS 
+- CSS
 - Flexbox and Grid
